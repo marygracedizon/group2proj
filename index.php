@@ -11,7 +11,7 @@
 	
 <body bgcolor="Violet">
 <center>
-<br><a href="home.php">INDEX</a>
+<br><a href="login.php">Login</a>
 <br><h1><font color="black"><font face="Algerian">Tourist Spots in Palawan</h1>
 <img src="images/P1.jpeg" height="250" width="250">
 <img src="images/P2.jpeg" height="250" width="250">
