@@ -5,6 +5,7 @@
 	<title>Sample</title>
 </head>
 <body>
-	<h2>Initial Commit</h2>
+	<h2>WELCOME TO CEBU
+	</h2>
 </body>
 </html>
